@@ -2,9 +2,9 @@
 
 * [वेबसायट बहुभाषी दस्तावेजीकरण](https://github.com/xxai-doc)
 
-संकेतथळाचो फ्रंट-एंड कोड मुक्त स्रोत आसा, अणकाराक अनुकूल करपाक मदत करपाक येवकार
+संकेतथळाचो फ्रंटएंड कोड मुक्त स्रोत आसा, अणकाराक अनुकूल करपाक मदत करपाक येवकार
 
-* [फ्रंट-एंड कोड](https://github.com/xxai-art/web)
+* [फ्रंटएंड कोड](https://github.com/xxai-art/web)
 * [एकंदर साइट खातीर भास पॅक](https://github.com/xxai-art/web/tree/main/i18n)
 * [लॉगीन मॉड्यूलां खातीर भास पॅक](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [वेबसायट बहुभाषी दस्तावेजीकरण](https://github.com/xxai-doc)
