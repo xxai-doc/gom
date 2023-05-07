@@ -7,3 +7,4 @@
 * [फ्रंट-एंड कोड](https://github.com/xxai-art/web)
 * [एकंदर साइट खातीर भास पॅक](https://github.com/xxai-art/web/tree/main/i18n)
 * [लॉगीन मॉड्यूलां खातीर भास पॅक](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [वेबसायट बहुभाषी दस्तावेजीकरण](https://github.com/xxai-doc)
