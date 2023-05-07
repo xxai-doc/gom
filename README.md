@@ -1,6 +1,6 @@
 <p align="center"><a href="https://wac.tax"><img src="https://cdn.jsdelivr.net/gh/wactax/img/logo.svg"/></a></p><p align="center"><a href="https://github.com/wactax/wac.tax/blob/main/doc/README.md#readme"><img alt="I18N" src="https://cdn.jsdelivr.net/gh/wactax/img/t.svg"/></a>　<a href="https://groups.google.com/u/2/g/wactax"><img alt="Google Groups" src="https://cdn.jsdelivr.net/gh/wactax/img/g-groups.svg"/></a></p>
 
-* [वेबसायट बहुभाषी दस्तावेजीकरण](https://github.com/xxai-doc)
+# [xxAI.कला हें नांव](https://xxAI.art)
 
 संकेतथळाचो फ्रंटएंड कोड मुक्त स्रोत आसा, अणकाराक अनुकूल करपाक मदत करपाक येवकार
 
