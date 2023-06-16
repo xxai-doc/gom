@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , coffeescript वाक्यरचनेच्या आदाराचेर कांय वैशिश्ट्यां जोडात, [coffee_plus](./coffee_plus.md) पळयात.
 
-* व्हेरिएबल जाहीर करप
+## व्हेरिएबल जाहीर करप
 
 ```
 + var1, var2
 ```
 
-* घोशणा लेबल
+## घोशणा लेबल
 
 `:$` हें [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) कडेन वापरपाखातीर आसा.
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* बेगीन आयात करप
+## बेगीन आयात करप
 
 ```
 > zx/globals:
